@@ -1,0 +1,16 @@
+Package: subdirtest
+Title: Test sub-directory structure on windows
+Version: 0.0.0.9000
+Authors@R: person("Mark", "Padgham", email = "mark.padgham@email.com", role = c("aut", "cre"))
+Description: Test sub-directory structure on windows.
+Depends: R (>= 3.2.0)
+Imports:
+    Rcpp
+LinkingTo:
+    Rcpp
+NeedsCompilation: yes
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Suggests: testthat
+RoxygenNote: 6.1.0
